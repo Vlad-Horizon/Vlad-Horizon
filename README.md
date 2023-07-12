@@ -5,7 +5,7 @@
 <a href="https://t.me/LookingOverTheHorizon/">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
 </a>
-<a href="mailto:Vlad.Horizon.02032003@gmail.com">
+<a href="mailto:zhvladyslav03@gmail.com">
   <img align="left" alt="Abhishek's Gmail" height="22px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" />
 </a>
 
