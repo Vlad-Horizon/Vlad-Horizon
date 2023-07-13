@@ -2,9 +2,9 @@
 <a href="https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D0%B6-353227272/">
   <img align="left" alt="Abhishek's LinkedIn" width="22px" src="https://static.licdn.com/aero-v1/sc/h/3m4lyvbs6efg8pyhv7kupo6dh" />
 </a>
-<a href="https://t.me/LookingOverTheHorizon/">
+<!-- <a href="https://t.me/LookingOverTheHorizon/">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
-</a>
+</a> -->
 <a href="mailto:zhvladyslav03@gmail.com">
   <img align="left" alt="Abhishek's Gmail" height="22px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" />
 </a>
